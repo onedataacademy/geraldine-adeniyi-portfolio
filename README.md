@@ -34,7 +34,7 @@ The business-analysis DOCX was the main source. The unrelated care role, school-
 
 The source files have inconsistent employment descriptions and dates. This version follows the DOCX: Amdor Analytics internship in 2025 and 7ven Oaks volunteer role from August 2026. Please confirm these details and the preferred display name. Quantified achievements were omitted pending verification; no percentage claims were invented.
 
-Four proposed case studies are included to show the intended portfolio direction. They are expressly marked as proposed, not completed. Replace the briefs with genuine analyses, screenshots, datasets and project links when available. The diagrams illustrate analytical structures, not real findings. Do not remove the proposed labels before those projects exist.
+Health Link is the featured documented case study. Three proposed case studies remain to show the intended portfolio direction. The three proposed briefs are expressly marked as proposed, not completed. Replace the briefs with genuine analyses, screenshots, datasets and project links when available. The diagrams illustrate analytical structures, not real findings. Do not remove the proposed labels before those projects exist.
 
 Tools and training reflect the supplied CV. No Power BI, SQL or Python proficiency is claimed. The PRINCE2 and Agile item is described as a course, not a professional certification. Confirm education, course completion and the institution spelling before final publication.
 
@@ -60,3 +60,11 @@ Unsplash license: https://unsplash.com/license . Replace these photographs with 
 ## Portrait update
 
 The third supplied photograph was selected for its balanced lighting and warm, neutral background. The hero identity panel sits beneath the photograph so it does not cover the face. Business-analysis stock photographs remain in the proposed project cards.
+
+## Health Link case study update
+
+The first proposed project is replaced by Health Link 001. The other three proposed cards remain. `health-link.html` contains the full case study. `assets/health-link/` contains an original project-overview illustration, eight supplied documents and a ZIP download containing those documents. The overview illustration is not a screenshot of a live system.
+
+The downloads preserve source content and attribution. Duplicate uploads were excluded. The business case copy naming Geraldine was selected. The product requirements document and SWOT retain their team attribution. Public copy describes collaborative analysis/design evidence; it does not assert sole authorship, launch, managed spend or measured outcomes.
+
+Publication rights confirmed by the owner. Confirm individual contribution, project setting and final pharmacy/payment scope with Geraldine. Source documents also contain differing dates and open review fields. Keep those planning details out of outcome claims. Do not overwrite these originals with edited copies without retaining their provenance.
