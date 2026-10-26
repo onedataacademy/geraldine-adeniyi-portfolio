@@ -68,3 +68,7 @@ The first proposed project is replaced by Health Link 001. The other three propo
 The downloads preserve source content and attribution. Duplicate uploads were excluded. The business case copy naming Geraldine was selected. The product requirements document and SWOT retain their team attribution. Public copy describes collaborative analysis/design evidence; it does not assert sole authorship, launch, managed spend or measured outcomes.
 
 Publication rights confirmed by the owner. Confirm individual contribution, project setting and final pharmacy/payment scope with Geraldine. Source documents also contain differing dates and open review fields. Keep those planning details out of outcome claims. Do not overwrite these originals with edited copies without retaining their provenance.
+
+## Public case study copy revision
+
+The public narrative now focuses on the problem, analytical approach and deliverables. Internal reconciliation and review notes are excluded from the page copy. Original downloadable documents remain unchanged. No implementation results or individual responsibilities have been invented.
