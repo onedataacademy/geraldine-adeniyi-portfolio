@@ -69,6 +69,7 @@ The downloads preserve source content and attribution. Duplicate uploads were ex
 
 Publication rights confirmed by the owner. Confirm individual contribution, project setting and final pharmacy/payment scope with Geraldine. Source documents also contain differing dates and open review fields. Keep those planning details out of outcome claims. Do not overwrite these originals with edited copies without retaining their provenance.
 
-## Public case study copy revision
 
-The public narrative now focuses on the problem, analytical approach and deliverables. Internal reconciliation and review notes are excluded from the page copy. Original downloadable documents remain unchanged. No implementation results or individual responsibilities have been invented.
+## Health Link process map update
+
+The Health Link case study now includes the supplied four-page `Process Map Health Link.pdf` as a ninth deliverable. The original PDF is available from the case-study page and is included in `assets/health-link/health-link-project-documents.zip`. Four page images are provided as faithful visual previews; they are not redrawn diagrams. The pharmacy page's wording and pending PGM scope note are preserved as supplied and flagged for confirmation.
